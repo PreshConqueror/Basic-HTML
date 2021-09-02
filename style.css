@@ -1,0 +1,13 @@
+body{
+	background-color: #ffebcd; 
+	color: #00ced1;
+
+	font-family: georgia, serif;
+	font-size: 16px;
+	font-weight: normal;
+	/* Same as above */
+	font: normal 16px georgia, serif;
+
+	line-height: 1.4em;
+	margin: 0;
+}
